@@ -324,9 +324,6 @@ Reasons:
 - Lowest BER
 - Better robustness across NTU levels
 
-### 📓 Notebook
-
-[Model Comparison Notebook](INSERT_MODEL_COMPARISON_CHART)
 
 ---
 
@@ -478,7 +475,6 @@ Run all cells sequentially.
 | Model Training Notebook | INSERT_LINK |
 | Hyperparameter Tuning Notebook | INSERT_LINK |
 | Error Analysis Notebook | INSERT_LINK |
-| Final Validation Notebook | INSERT_LINK |
 | Final Report | INSERT_LINK |
 | Presentation | INSERT_LINK |
 
