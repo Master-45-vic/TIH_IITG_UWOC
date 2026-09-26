@@ -469,14 +469,15 @@ Run all cells sequentially.
 
 | Resource | Link |
 |----------|------|
-| EDA Notebook | INSERT_LINK |
-| Preprocessing Notebook | INSERT_LINK |
-| Feature Engineering Notebook | INSERT_LINK |
-| Model Training Notebook | INSERT_LINK |
-| Hyperparameter Tuning Notebook | INSERT_LINK |
-| Error Analysis Notebook | INSERT_LINK |
-| Final Report | INSERT_LINK |
-| Presentation | INSERT_LINK |
+| EDA Notebook | [Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day10/Day10.ipynb) |
+| Preprocessing Notebook | [Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day11/Day11.ipynb) |
+| Feature Engineering Notebook | [Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day13/Day13.ipynb) |
+| Model Training Notebook | [Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day16/Day16.ipynb)|
+| Hyperparameter Tuning Notebook | [Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day19/Day19.ipynb) |
+| Validation Notebook | [Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day19/Day19.ipynb)|
+| Error Analysis Notebook | [Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day25/Day25.ipynb) |
+| Final Report | [Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day10/Day10.ipynb) |
+| Presentation | [Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day10/Day10.ipynb)|
 
 ---
 
