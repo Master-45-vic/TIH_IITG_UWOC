@@ -116,7 +116,7 @@ Evaluation
 
 ### 📷 Dataset Overview
 
-[Dataset Overview](INSERT_DATASET_IMAGE_LINK)
+[Dataset Overview](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Dataset.csv)
 
 ---
 
@@ -133,7 +133,7 @@ Performed:
 
 ### 📓 Notebook
 
-[EDA Notebook](INSERT_EDA_NOTEBOOK_LINK)
+[EDA Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day10/Day10.ipynb)
 
 ---
 
@@ -156,7 +156,7 @@ Performed:
 
 ### 📓 Notebook
 
-[Data Cleaning Notebook](INSERT_DATA_CLEANING_NOTEBOOK_LINK)
+[Data Cleaning Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day9/Day9.ipynb)
 
 ---
 
@@ -179,7 +179,7 @@ Performed:
 
 ### 📓 Notebook
 
-[Feature Engineering Notebook](INSERT_FEATURE_ENGINEERING_NOTEBOOK_LINK)
+[Feature Engineering Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day13/Day13.ipynb)
 
 ---
 
@@ -199,7 +199,7 @@ Purpose:
 
 ### 📓 Notebook
 
-[Preprocessing Notebook](INSERT_PREPROCESSING_NOTEBOOK_LINK)
+[Preprocessing Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day11/Day11.ipynb)
 
 ---
 
@@ -284,7 +284,7 @@ GridSearchCV(cv=5)
 
 ### 📓 Notebook
 
-[Hyperparameter Tuning Notebook](INSERT_TUNING_NOTEBOOK_LINK)
+[Hyperparameter Tuning Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day19/Day19.ipynb)
 
 ---
 
@@ -333,7 +333,7 @@ NTU-wise evaluation was performed to assess classifier performance under differe
 
 ### 📓 Notebook
 
-[NTU Robustness Analysis Notebook](INSERT_TUNING_NOTEBOOK_LINK)
+[NTU Robustness Analysis Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day20/Day20.ipynb)
 
 
 
@@ -368,7 +368,7 @@ NTU-wise evaluation was performed to assess classifier performance under differe
 
 ### 📓 Notebook
 
-[Error Analysis Notebook](INSERT_ERROR_ANALYSIS_NOTEBOOK_LINK)
+[Error Analysis Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day25/Day25.ipynb)
 
 ---
 
