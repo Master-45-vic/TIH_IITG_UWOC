@@ -476,8 +476,8 @@ Run all cells sequentially.
 | Hyperparameter Tuning Notebook | [Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day19/Day19.ipynb) |
 | Validation Notebook | [Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day19/Day19.ipynb)|
 | Error Analysis Notebook | [Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day25/Day25.ipynb) |
-| Final Report | [Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day10/Day10.ipynb) |
-| Presentation | [Notebook](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IIT_Intern_Work/Day10/Day10.ipynb)|
+| Final Report | [Report](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/UWOC_Bit_Classification_Research_Report_Prasanth.pdf) |
+| Presentation | [PPT](https://github.com/Master-45-vic/TIH_IITG_UWOC/blob/main/TIH_IITG_UWOC_PPT)|
 
 ---
 
